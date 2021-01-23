@@ -7,8 +7,6 @@ int main(void)
 {
 	glfwSetErrorCallback(error_callback);
 
-	// Kommentar von Leon
-
 	if (!glfwInit()) 
 	{
 		exit(EXIT_FAILURE);
