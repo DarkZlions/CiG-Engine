@@ -1,3 +1,0 @@
-﻿  main.cpp
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-  CiG-Engine-Core.vcxproj -> C:\Users\MEL Bremgarten\source\repos\CiG Engine\x64\Debug\CiG-Engine-Core.exe
