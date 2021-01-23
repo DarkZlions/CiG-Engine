@@ -7,7 +7,7 @@ int main(void)
 {
 	glfwSetErrorCallback(error_callback);
 
-	// Kommentar von Leon
+	// kdlsjfalös
 
 	if (!glfwInit()) 
 	{

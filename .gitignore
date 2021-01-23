@@ -16,6 +16,6 @@
 *.db-shm
 *.db-wal
 *.opendb
-
+Browse.VC.db
 Intermediates/
 ipch/
