@@ -16,6 +16,9 @@
 *.db-shm
 *.db-wal
 *.opendb
-
+Browse.VC.db
 Intermediates/
 ipch/
+.vs/CiG Engine/v16/Browse.VC.db
+*.db
+dir_to_ignore/.vs
